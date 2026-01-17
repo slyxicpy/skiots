@@ -22,4 +22,4 @@ cd skiots
 python3 main.py -h
 ```
 
-![Test Img](test/T1.png)
+![Test Img](tests/T1.png)
