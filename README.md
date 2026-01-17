@@ -9,3 +9,5 @@
 > It is especially focused on recognizing **IoT devices** and their port information
 > Scanning speed and optimization are being improved to avoid high bandwidth usage.
 > Its version is still under development, so its use might not be entirely satisfactory, **but it serves its purpose**.
+
+## fss
