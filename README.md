@@ -6,4 +6,6 @@
 [![Issues](https://img.shields.io/github/issues/slyxicpy/skiots?style=flat-square)](https://github.com/slyxicpy/skiots/issues)
 
 > **Skiots** it is a simple project focused on host recognition and verification
-> It is especially focused on recognizing IoT devices and their port information
+> It is especially focused on recognizing **IoT devices** and their port information
+> Scanning speed and optimization are being improved to avoid high bandwidth usage.
+> Its version is still under development, so its use might not be entirely satisfactory, **but it serves its purpose**.
