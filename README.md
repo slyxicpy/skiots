@@ -10,4 +10,16 @@
 > Scanning speed and optimization are being improved to avoid high bandwidth usage.
 > Its version is still under development, so its use might not be entirely satisfactory, **but it serves its purpose**.
 
-## fss
+## Features
+- Active host discovery on networks
+- Focused on IoT device scanning
+- C extension for faster connection speed
+
+## Installation & use
+```
+git clone https://github.com/slyxicpy/skiots.git
+cd skiots
+python3 main.py -h
+```
+
+![TestImg](test/T1.png)
