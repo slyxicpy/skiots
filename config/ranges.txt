@@ -1,0 +1,170 @@
+# ARGENTINA
+200.51.240.0/20  # Arnet/Speedy ADSL Buenos Aires
+181.31.128.0/18  # Personal Argentina Fibra
+200.55.128.0/18  # Telecentro Cable
+200.45.0.0/18  # Fibertel/Cablevisión DOCSIS
+# CHILE
+190.45.0.0/18  # VTR Cable Santiago
+181.74.0.0/19  # Movistar Chile Fibra
+190.160.0.0/18  # GTD Manquehue hogares
+200.126.0.0/18  # Mundo Pacífico Cable
+# COLOMBIA
+181.143.0.0/18  # Claro Colombia Bogotá
+190.25.0.0/19  # ETB Fibra residencial
+186.84.0.0/18  # Une/Tigo Cable Medellín
+181.129.0.0/18  # Movistar Colombia hogares
+# MÉXICO
+187.189.0.0/18  # Telmex Infinitum CDMX
+201.116.0.0/18  # Totalplay fibra hogares
+189.240.0.0/18  # Megacable residencial
+201.141.0.0/18  # Axtel xtremo fibra
+# BRASIL
+177.96.0.0/17  # NET/Claro São Paulo
+189.4.0.0/17  # Vivo Fibra Rio/SP
+189.112.0.0/17  # Oi Velox residencial
+177.128.0.0/17  # TIM Live Brasil
+# PERÚ
+181.176.128.0/18  # Movistar Perú Lima
+190.12.0.0/18  # Claro Perú fibra
+190.237.0.0/18  # Bitel hogares
+# CHINA
+223.104.0.0/17  # China Mobile residencial
+117.136.0.0/17  # China Unicom hogares
+121.224.0.0/17  # China Telecom FTTH
+112.64.0.0/17  # China Netcom hogares
+14.144.0.0/17  # China Unicom Guangdong
+# VIETNAM
+14.224.0.0/17  # Viettel Fiber Hanoi/HCMC
+113.160.0.0/17  # VNPT FiberVNN hogares
+171.224.0.0/17  # FPT Telecom residencial
+116.96.0.0/17  # VNPT Hanoi
+# INDIA
+49.207.0.0/17  # Airtel Fibernet Delhi/Mumbai
+117.203.0.0/17  # Jio Fiber residencial
+106.192.0.0/17  # BSNL/ACT hogares
+14.96.0.0/17  # MTNL/Reliance residential
+103.240.0.0/17  # ACT Fibernet Bangalore
+# COREA DEL SUR
+121.128.0.0/17  # KT olleh Fiber Seoul
+211.104.0.0/17  # SK Broadband hogares
+175.112.0.0/17  # LG U+ residential
+1.224.0.0/17  # KT legacy ADSL/VDSL
+# INDONESIA
+114.124.0.0/17  # Telkom Indonesia INDIHOME
+180.250.0.0/17  # Indosat/XL home broadband
+103.10.0.0/17  # Biznet Fiber Jakarta
+36.64.0.0/17  # Telkomsel residencial
+# TAILANDIA
+1.20.0.0/17  # 3BB Fiber Bangkok
+110.77.0.0/17  # True Online residencial
+124.120.0.0/17  # TOT/CAT Telecom
+171.96.0.0/17  # AIS Fibre
+# JAPÓN
+126.0.0.0/17  # NTT OCN Flets hogares
+60.32.0.0/17  # KDDI au Hikari
+219.96.0.0/17  # SoftBank Hikari
+133.200.0.0/17  # NTT East Flets
+# FILIPINAS
+112.200.0.0/17  # PLDT Fibr Manila
+49.150.0.0/17  # Globe Fiber residencial
+27.96.0.0/17  # Converge ICT Fiber
+124.104.0.0/17  # PLDT DSL legacy
+# TAIWÁN
+61.216.0.0/17  # Chunghwa Telecom HiNet
+1.160.0.0/17  # Taiwan Mobile Fiber
+123.192.0.0/17  # Taiwan Fixed Network
+# IRÁN
+2.144.0.0/17  # Irancell FTTH
+37.32.0.0/17  # Rightel Fiber
+5.200.0.0/17  # MCI/TCI residencial
+# ESPAÑA
+88.26.0.0/18  # Movistar España FTTH
+83.36.0.0/17  # Orange España fibra
+79.146.0.0/17  # Vodafone España hogares
+77.231.0.0/17  # Jazztel/MásMóvil FTTH
+# ITALIA
+79.18.0.0/18  # TIM Italia FTTH
+95.237.0.0/17  # Fastweb hogares
+151.76.0.0/17  # Wind Tre residencial
+93.32.0.0/17  # Vodafone Italia DSL
+# ALEMANIA
+91.32.0.0/17  # Deutsche Telekom VDSL/Fiber
+84.144.0.0/17  # Vodafone Cable
+62.224.0.0/17  # O2/Telefonica DSL
+46.244.0.0/17  # 1&1 VDSL
+# UK
+86.128.0.0/17  # BT Infinity Fiber
+90.200.0.0/17  # Virgin Media Cable
+81.96.0.0/17  # Sky Broadband
+94.0.0.0/17  # TalkTalk hogares
+# FRANCIA
+90.96.0.0/17  # Orange FTTH Francia
+88.168.0.0/17  # Free Freebox
+176.158.0.0/17  # SFR/Numericable
+109.130.0.0/17  # Bouygues Telecom
+# POLONIA
+83.23.0.0/17  # Orange Polska FTTH
+89.64.0.0/17  # UPC Polska Cable
+178.43.0.0/17  # Netia residencial
+91.223.0.0/17  # Play/P4 LTE home
+# RUSIA
+95.24.0.0/17  # Rostelecom FTTB Moscú
+188.162.0.0/17  # MTS residencial
+46.242.0.0/17  # Beeline ADSL/FTTH
+176.59.0.0/17  # ER-Telecom hogares
+# TURQUÍA
+88.240.0.0/17  # Turk Telekom VDSL
+78.160.0.0/17  # Superonline Cable
+31.145.0.0/17  # Vodafone Türkiye
+176.41.0.0/17  # TTNet residencial
+# PAÍSES BAJOS
+84.26.0.0/17  # Ziggo Cable
+217.19.0.0/17  # KPN Fiber hogares
+213.127.0.0/17  # Caiway Cable
+# COMCAST/XFINITY
+73.158.0.0/17  # Comcast Northeast
+98.200.0.0/17  # Comcast West Coast
+69.138.0.0/17  # Comcast Central
+76.103.0.0/17  # Comcast South
+# AT&T
+99.40.0.0/17  # AT&T Fiber South
+107.77.0.0/17  # AT&T U-verse Midwest
+76.192.0.0/17  # AT&T DSL/Fiber
+12.128.0.0/17  # AT&T legacy
+# SPECTRUM/CHARTER
+24.94.0.0/17  # Spectrum Northeast
+66.65.0.0/17  # Spectrum Southeast
+71.28.0.0/17  # Spectrum Central
+98.41.0.0/17  # Spectrum West
+# VERIZON FIOS
+71.180.0.0/17  # Verizon East Coast
+173.48.0.0/17  # Verizon FiOS
+108.48.0.0/17  # Verizon residential
+96.224.0.0/17  # Verizon DSL legacy
+# COX COMMUNICATIONS
+68.1.0.0/17  # Cox West
+98.174.0.0/17  # Cox Southwest
+70.160.0.0/17  # Cox Southeast
+24.96.0.0/17  # Cox Central
+# CANADÁ
+24.200.0.0/17  # Rogers Cable Ontario
+70.52.0.0/17  # Bell Fibe Quebec
+184.66.0.0/17  # Shaw Cable BC
+142.161.0.0/17  # Videotron Quebec
+# ARABIA SAUDITA
+188.241.0.0/17  # STC Fiber Riyadh
+31.170.0.0/17  # Mobily FTTH
+78.100.0.0/17  # Zain KSA hogares
+# EMIRATOS ÁRABES
+5.44.0.0/17  # Etisalat UAE Dubai
+94.200.0.0/17  # Du Telecom Abu Dhabi
+# AUSTRALIA
+1.120.0.0/17  # Telstra NBN Sydney/Melbourne
+58.162.0.0/17  # Optus Cable
+101.160.0.0/17  # TPG/iiNet Fiber
+14.192.0.0/17  # Internode NBN
+# NUEVA ZELANDA
+58.28.0.0/17  # Spark Fiber Auckland
+210.48.0.0/17  # Vodafone NZ Wellington
+203.96.0.0/17  # 2degrees Fiber
+
