@@ -1,5 +1,4 @@
 # Skiots V0.69
-[![Build Status](https://img.shields.io/github/actions/workflow/status/slyxicpy/skiots/ci.yml?branch=main&label=build&style=flat-square)](https://github.com/slyxicpy/skiots/actions)
 [![License](https://img.shields.io/github/license/slyxicpy/skiots?style=flat-square)](https://github.com/slyxicpy/skiots/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/slyxicpy/skiots?style=flat-square)](https://github.com/slyxicpy/skiots/stargazers)
 [![Forks](https://img.shields.io/github/forks/slyxicpy/skiots?style=flat-square)](https://github.com/slyxicpy/skiots/network/members)
